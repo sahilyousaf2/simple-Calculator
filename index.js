@@ -61,3 +61,4 @@ while (condition) {
     ]);
     condition = conditionAns.restart;
 }
+console.log(chalk.grey.bold('\n \t Thanks You For This Application \n'));
